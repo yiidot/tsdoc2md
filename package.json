@@ -1,0 +1,31 @@
+{
+  "name": "tsdoc2md",
+  "version": "0.0.13",
+  "description": "convert typescript comments to markdown file",
+  "main": "./lib/main",
+  "scripts": {
+    "my": "tsdoc2md",
+    "tsc": "tsc"
+  },
+  "bin": {
+    "tsdoc2md": "./bin/main"
+  },
+  "keywords": [
+    "tsdoc",
+    "markdown"
+  ],
+  "author": "yiddot",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/lodash": "^4.14.136",
+    "@types/node": "^12.6.8",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "@microsoft/api-extractor": "^7.3.4",
+    "@microsoft/node-core-library": "^3.13.0",
+    "chalk": "^2.4.2",
+    "lodash": "^4.17.15"
+  }
+}
