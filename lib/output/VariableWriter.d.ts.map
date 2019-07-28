@@ -1,0 +1,1 @@
+{"version":3,"file":"VariableWriter.d.ts","sourceRoot":"","sources":["../../src/output/VariableWriter.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,cAAc,EAAE,MAAM,0BAA0B,CAAC;AAE1D,qBAAa,cAAc;IAClB,SAAS,EAAE,cAAc,GAAG,SAAS,CAAC;gBACjC,QAAQ,EAAE,cAAc;IAGpC,OAAO,CAAC,QAAQ,EAAE,MAAM;CAczB"}

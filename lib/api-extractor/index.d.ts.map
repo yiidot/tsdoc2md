@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../src/api-extractor/index.ts"],"names":[],"mappings":"AASA,OAAO,EAAE,UAAU,EAAE,MAAM,UAAU,CAAC;AAGtC,qBAAa,cAAc;IACzB,OAAO,CAAC,qBAAqB,CAAc;IAC3C,OAAO,CAAC,eAAe,CAAyB;gBACpC,cAAc,EAAE,UAAU;IAItC,IAAI;IAGJ,MAAM;IAsBN,OAAO,CAAC,4BAA4B;CA0CrC"}

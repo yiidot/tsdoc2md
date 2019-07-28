@@ -1,0 +1,1 @@
+{"version":3,"file":"PropertyParser.d.ts","sourceRoot":"","sources":["../../src/parser/PropertyParser.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,oBAAoB,CAAC;AAChD,OAAO,EAAE,OAAO,EAAE,MAAM,UAAU,CAAC;AAEnC,qBAAa,cAAe,SAAQ,UAAU;gBAChC,OAAO,EAAE,OAAO;IAI5B,IAAI,CAAC,OAAO,EAAE,OAAO;IAIrB,OAAO,CAAC,OAAO,EAAE,OAAO;CAWzB"}

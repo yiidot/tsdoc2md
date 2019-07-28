@@ -1,0 +1,1 @@
+{"version":3,"file":"MethodParser.d.ts","sourceRoot":"","sources":["../../src/parser/MethodParser.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,oBAAoB,CAAC;AAChD,OAAO,EAAE,OAAO,EAAE,MAAM,UAAU,CAAC;AAEnC,qBAAa,YAAa,SAAQ,UAAU;gBAC9B,OAAO,EAAE,OAAO;IAI5B,IAAI,CAAC,OAAO,EAAE,OAAO;IAIrB,OAAO,CAAC,OAAO,EAAE,OAAO;CAQzB"}
